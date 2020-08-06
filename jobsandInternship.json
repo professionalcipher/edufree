@@ -23,8 +23,50 @@
     "about_company": "Dexciss Technology at a glance\nERP had to change with changing organizations SIMPLE, the main stream product has done it\nDexciss Technology focuses on Enterprise Software, Cloud Computing, CRM, Enterprise Resource Planning, and Supply Chain Management. Their company has offices in Pune and Indore. They have a small team that's between 11-50 employees.\nYou can view their website at http://www.dexciss.com or find them on Twitter, Facebook, and LinkedIn.",
     "job_description": "We're looking for enthusiatic python freak who enjoys coding and making things work. Someone with a can do attitude is the right candidate for this position. Knowledge of API, flask, django, odoo is an added benefit.\nApply now",
     "who_can_apply": "Who are available in Pune and near by towns",
-    "experience": "0-2 yr exc",
+    "experience": "0-2 yr exp",
     "skills": "Python, Git, OOPs, Javascript",
     "apply_url": "https://angel.co/company/dexciss-technology/jobs/589212-python-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "location": "Pune",
+    "job_title": "Senior Software Engineer",
+    "job_type": "Full time",
+    "company_name": "Philips",
+    "salary": "₹7L – ₹15L",
+    "apply_before": "30th Aug",
+    "about_company": "You are a part of Diagnostic X-Ray R&D team based out of Philips Healthcare Innovation Center (HIC), Pune. Philips HIC Pune is a product innovation center for multiple businesses with presence of R&D, Marketing, Customer Service, Procurement, Quality and Manufacturing functions. The center is focused on developing smart and reliable X-ray imaging based Diagnostics and Treatment products with enhanced patient safety to meet the unmet needs of a wide range of global hospital customer base",
+    "job_description": "In this role, you have the opportunity to work with software team in Diagnostic X-Ray(DXR) R&D, and design & development of components/modules/sub-systems software based on the specifications. Eleva workspot is the heart of DXR systems which proudly owns the first of its kind CXA architecture that equips itself to be a common software platform over a wide range of radiography and fluoroscopy imaging systems. Eleva workspot is designed for creating, processing, and transferring digital X-ray exposures. It supports a fully automatic workflow, from entering patient data through image processing to film composition, with an intuitive user interface.",
+    "who_can_apply": "Who are available in Pune and near by towns",
+    "experience": "1-5 yr exp",
+    "skills": "Python, Git, OOPs, Javascript, Java, C, C++",
+    "apply_url": "https://www.careers.philips.com/global/en/job/368711/Senior-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "location": "Pune",
+    "job_title": "Senior Software Engineer",
+    "job_type": "Full time",
+    "company_name": "Philips",
+    "salary": "₹7L – ₹15L",
+    "apply_before": "30th Aug",
+    "about_company": "You are a part of Diagnostic X-Ray R&D team based out of Philips Healthcare Innovation Center (HIC), Pune. Philips HIC Pune is a product innovation center for multiple businesses with presence of R&D, Marketing, Customer Service, Procurement, Quality and Manufacturing functions. The center is focused on developing smart and reliable X-ray imaging based Diagnostics and Treatment products with enhanced patient safety to meet the unmet needs of a wide range of global hospital customer base",
+    "job_description": "In this role, you have the opportunity to work with software team in Diagnostic X-Ray(DXR) R&D, and design & development of components/modules/sub-systems software based on the specifications. Eleva workspot is the heart of DXR systems which proudly owns the first of its kind CXA architecture that equips itself to be a common software platform over a wide range of radiography and fluoroscopy imaging systems. Eleva workspot is designed for creating, processing, and transferring digital X-ray exposures. It supports a fully automatic workflow, from entering patient data through image processing to film composition, with an intuitive user interface.",
+    "who_can_apply": "Who are available in Pune and near by towns",
+    "experience": "1-5 yr exp",
+    "skills": "Python, Git, OOPs, Javascript, Java, C, C++",
+    "apply_url": "https://www.careers.philips.com/global/en/job/368711/Senior-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  },
+  {
+    "location": "India",
+    "job_title": "Fresher Off Campus Drive",
+    "job_type": "Full/ Part time",
+    "company_name": "Infosys",
+    "salary": "₹3.5L – ₹5L",
+    "apply_before": "November",
+    "about_company": "Infosys is one of the most fast-growing industries. Infosys is now recruiting the students all over across India both freshers as well as experienced candidates. Like the previous year this year also Infosys is going to hire a huge number of people. A fresher and experienced can now feel it as a boon. Infosys not only supports worldwide technologies but also social service. Aspirants who had a passion for working in this atmosphere can now apply for Infosys Off Campus 2020 Drive through the link.",
+    "job_description": "Software / System Engineer",
+    "who_can_apply": "BE/BTech, ME/MTech Students",
+    "experience": "0 yr exp",
+    "skills": "Programming, Communication",
+    "apply_url": "https://careers.infosys.com/careersite/aspx/offcampus.aspx"
   }
 ]
