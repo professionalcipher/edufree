@@ -1,32 +1,30 @@
 [
-	{
-		"job_title" : "Android App development",
-		"job_type" : "Mobile App development",
-		"company_name" : "Professional ciper",
-		"location" : "Work from Home",
-		"salary" : "\u20b9 5000 /month",
-		"apply_before" : "Apply Before 6 July",
-		"about_company" : "StudyGyaan.com is a website for all aspiring information technology-related students especially for gaining knowledge and ease to get study material and with exciting videos on different topics. We specially provide knowledge on information technology-related subjects, projects, algorithms, books, data structure, programs, software, programming languages, tips, and tricks related to IT, and much more.",
-		"job_description" : "1. Creating an Android application\\n2. Creating different screens for app\\n3. Making good looking app",
-		"who_can_apply" : "1. are available for the work from home job/internship\\n2. can start the work from home job/internship between 30th Jun'20 and 4th Aug'20\\n3.are available for duration of 1 month",
-		"experience" : "2 - years experience",
-		"skills" : "Android, Java, Android Studio, XML",
-		"apply_url" : "https://internshala.com/internship/detail/android-app-development-work-from-home-job-internship-at-professional-cipher1595934604"
-	},
-
-	{
-		"job_title" : "Android App development",
-		"job_type" : "Mobile App development",
-		"company_name" : "Professional ciper",
-		"location" : "Work from Home",
-		"salary" : "\u20b9 1000 /month",
-		"apply_before" : "Apply Before 6 July",
-		"about_company" : "StudyGyaan.com is a website for all aspiring information technology-related students especially for gaining knowledge and ease to get study material and with exciting videos on different topics. We specially provide knowledge on information technology-related subjects, projects, algorithms, books, data structure, programs, software, programming languages, tips, and tricks related to IT, and much more.",
-		"job_description" : "1. Creating an Android application\\n 2. Creating different screens for app\\n 3. Making good looking app",
-		"who_can_apply" : "1. are available for the work from home job/internship\\n 2. can start the work from home job/internship between 30th Jun'20 and 4th Aug'20\\n 3.are available for duration of 1 month",
-		"experience" : "2-years experience",
-		"skills" : "Android, Java, Android Studio, XML",
-		"apply_url" : "https://internshala.com/internship/detail/android-app-development-work-from-home-job-internship-at-professional-cipher1595934604"
-	}
-
+  {
+    "location": "WFH",
+    "job_title": "App Development",
+    "job_type": "Internship",
+    "company_name": "Professional Cipher",
+    "salary": "₹ 5000 /month",
+    "apply_before": "8 Sept",
+    "about_company": "Professional Cipher is a mobile and digital agency focusing on solutions and providing 360 advisory on how to improve your digital business. We have 10+ years experience and have won numerous awards and believe in strong customer satisfaction. We believe in integrating business and technology to greater heights through innovation and sheer creativity.",
+    "job_description": "1. Creating an Android application\\n2. Creating different screens for app\\n3. Making good looking app",
+    "who_can_apply": "1. are available for the work from home job/internship\\n2. can start the work from home job/internship between 30th Sept'20 and 4th Nov'20\\n3.are available for duration of 1 month",
+    "experience": "2+ yr exp",
+    "skills": "Android, Java, Android Studio, XML",
+    "apply_url": "https://www.professionalcipher.com/#contact-area"
+  },
+  {
+    "location": "Pune",
+    "job_title": "Python Developer",
+    "job_type": "Full time",
+    "company_name": "Dexciss Technology",
+    "salary": "₹1.2L – ₹3L",
+    "apply_before": "30 Aug",
+    "about_company": "Dexciss Technology at a glance\nERP had to change with changing organizations SIMPLE, the main stream product has done it\nDexciss Technology focuses on Enterprise Software, Cloud Computing, CRM, Enterprise Resource Planning, and Supply Chain Management. Their company has offices in Pune and Indore. They have a small team that's between 11-50 employees.\nYou can view their website at http://www.dexciss.com or find them on Twitter, Facebook, and LinkedIn.",
+    "job_description": "We're looking for enthusiatic python freak who enjoys coding and making things work. Someone with a can do attitude is the right candidate for this position. Knowledge of API, flask, django, odoo is an added benefit.\nApply now",
+    "who_can_apply": "Who are available in Pune and near by towns",
+    "experience": "0-2 yr exc",
+    "skills": "Python, Git, OOPs, Javascript",
+    "apply_url": "https://angel.co/company/dexciss-technology/jobs/589212-python-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+  }
 ]
