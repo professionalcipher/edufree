@@ -1,4 +1,33 @@
-[
+
+  [
+    {
+    "location": "WFH",
+    "job_title": "Backend Development (Node.js)",
+    "job_type": "Internship",
+    "company_name": "IIT Bombay",
+    "salary": "3000-5000 /month",
+    "apply_before": "Asap",
+    "about_company": "The Indian Institute of Technology, Bombay (IITB) is one of the fifteen higher institutes of technology in the country set up with the objective of making facilities available for higher education, research, and training in various fields of science and technology. With the same mission and vision, Prof. Ganesh Ramakrishnan is gearing to take rural India a leap ahead. For his outstanding contributions, he has also been awarded the IBM Faculty Award in 2011.",
+    "job_description": "Selected intern's day-to-day responsibilities include:\n\n1. Working as a part of our team developing applications and services using Agile development methods\n2. Understanding the basic areas of computer science such as algorithms, data structures, object-oriented design, databases\n3. Writing quality code in a Node Js frameworks and server-side scripts\n4. Working on JavaScript (ES6)\n5. Working on Express Js and building APIs\n6. Working on Google APIs\n7. Working on either Postgrel SQL or MySQL\n8. Understanding front-end technologies such as HTML5 and CSS3\n9. Integrating front-end and backend\n10. Implementing",
+    "who_can_apply": "Only those candidates can apply who:\n1. are available for the work from home job/internship\n2. can start the work from home job/internship between 7th Aug'20 and 11th Sep'20\n3. are available for duration of 6 months\n4. have relevant skills and interests",
+    "experience": "0+ yr exp",
+    "skills": "JavaScript,SQL,Node.js,SQLite,REST API",
+    "apply_url": "https://internshala.com/internship/detail/backend-development-nodejs-work-from-home-job-internship-at-iit-bombay1596882637"
+  },
+  {
+    "location": "WFH",
+    "job_title": "Marketing",
+    "job_type": "Internship",
+    "company_name": "InMobi",
+    "salary": "15000 /month",
+    "apply_before": "Asap",
+    "about_company": "Our mission at InMobi is to enable consumers and businesses to make smarter decisions. We build mobile-first customer engagement platforms that transform the economics of influencing global consumers. We help our customers engage consumers in a far more intimate way through mobile advertising. We offer a suite of solutions based on the core principles of simplicity and scale to help engage, retain, and grow your consumer base. Our focus on understanding consumer behavior and leveraging big data to predict their actions enables us to offer these unique solutions. Today, the world's largest brands, agencies, developers, and publishers are creating immediate business value by using our platforms to deliver compelling value propositions to their target consumers.",
+    "job_description": "Selected intern's day-to-day responsibilities include:\n\n1. 1. Monitor user comments on the Play Store and App Store\n2. Respond to user reviews empathetically\n3. Create a repository of responses\n4. Create a benchmark table across products and processes w.r.t competition\n5. Monitor competition in terms of best practices",
+    "who_can_apply": "Only those candidates can apply who:\n1.are available for the work from home job/internship\n2.can start the work from home job/internship between 10th Aug'20 and 14th Sep'20\n3.are available for duration of 3 months\n4.have relevant skills and interests",
+    "experience": "0+ yr exp",
+    "skills": "Social Media Marketing,Email Marketing",
+    "apply_url": "https://internshala.com/internship/detail/marketing-work-from-home-job-internship-at-inmobi1597044184"
+  },
   {
     "location": "WFH",
     "job_title": "Analytics/Data Science",
@@ -29,9 +58,9 @@
   },
   {
     "location": "Pune",
-    "job_title": "App Development",
-    "job_type": "Analyst/Sr. Analyst ",
-    "company_name": "Professional Cipher",
+    "job_title": "Analyst/Sr. Analyst",
+    "job_type": "Full time",
+    "company_name": "Deloitte",
     "salary": "Best in industry",
     "apply_before": "Asap",
     "about_company": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as “Deloitte Global”) does not provide services to clients. Please see www.deloitte.com/about to learn more about our global network of member firm",
