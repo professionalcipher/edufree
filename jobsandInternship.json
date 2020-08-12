@@ -2,6 +2,34 @@
   [
     {
     "location": "WFH",
+    "job_title": "Blockchain Development",
+    "job_type": "Internship",
+    "company_name": "SkillBit",
+    "salary": "7000 /month",
+    "apply_before": "Asap",
+    "about_company": "SkillBit is a leading staffing and recruitment company engaged in talent searching assignments for skilled and talented candidates for the industry.",
+    "job_description": "Selected intern's day-to-day responsibilities include:\n\n1. Researching on existing blockchain ecosystem\n2. Learning other blockchain-specific languages like Solidity, etc. and specific frameworks\n3. Work using basic understanding of smart contracts and how they work.",
+    "who_can_apply": "Only those candidates can apply who:\n1. are available for the work from home job/internship\n2. can start the work from home job/internship between 12th Aug'20 and 16th Sep'20\n3. are available for duration of 1 months\n4. have relevant skills and interests",
+    "experience": "0+ yr exp",
+    "skills": "Python, Mathematics, Objective C, C++, Programming",
+    "apply_url": "https://internshala.com/internship/detail/blockchain-development-work-from-home-job-internship-at-skillbit1597216450"
+  },
+  {
+    "location": "WFH",
+    "job_title": "Full Stack Development",
+    "job_type": "Internship",
+    "company_name": "Digital Guruji",
+    "salary": "5000 /month",
+    "apply_before": "Asap",
+    "about_company": "We help companies with online marketing, web designing, web development, and software development services. We aim to establish ourselves as a global brand for all digital solutions.",
+    "job_description": "Selected intern's day-to-day responsibilities include:\n\n1. Creating both the front-end and the back-end part of the platform\n2. Working with the team to manage, optimize and customize multiple web applications",
+    "who_can_apply": "Only those candidates can apply who:\n1. are available for the work from home job/internship\n2. can start the work from home job/internship between 12th Aug'20 and 16th Sep'20\n3. are available for duration of 2 months\n4. have relevant skills and interests",
+    "experience": "0+ yr exp",
+    "skills": "PHP, MySQL, HTML, CSS, JavaScript, WordPress, SQL, MongoDB, AngularJS, Node.js, Express.js, ReactJS",
+    "apply_url": "https://internshala.com/internship/detail/full-stack-development-work-from-home-job-internship-at-digital-guruji1597219281"
+  },
+  {
+    "location": "WFH",
     "job_title": "Backend Development (Node.js)",
     "job_type": "Internship",
     "company_name": "IIT Bombay",
