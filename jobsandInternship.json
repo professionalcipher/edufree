@@ -1,5 +1,32 @@
-
-  [
+[
+    {
+    "location": "WFH",
+    "job_title": "Android Development",
+    "job_type": "Internship",
+    "company_name": "TPF Technologies Private Limited",
+    "salary": "7000 /month",
+    "apply_before": "2 Sep' 20",
+    "about_company": "TPF (The Perfect Future) is a global smart-shore software service and technology innovation company. We specialize in providing agile and cost-effective consulting services and product development solutions to small and medium-sized enterprises (SMEs) on new Microsoft technologies on PC, internet, and mobile platforms. Established in 2003, we now have more than 800 person-years of experience amongst our team serving customers from our global offices. This has enabled us to perfect our methodologies, practices, and delivery models to exceed world standards and helped us make a practical contribution to increasing our clients' effectiveness and profitability.",
+    "job_description": "Selected intern's day-to-day responsibilities include:\n\n1.  Handle application development using object-oriented development methodologies\n2. Work using RESTful web-services and JSON\n3. Work on Node.js and AngularJS",
+    "who_can_apply": "Only those candidates can apply who:\n1. are available for the work from home job/internship\n2. can start the work from home job/internship between 17th Aug'20 and 21st Sep'20\n3. are available for duration of 6 months\n4. have relevant skills and interests",
+    "experience": "0+ yr exp",
+    "skills": "Node.js, Android, Angular 7.0",
+    "apply_url": "https://internshala.com/internship/detail/android-development-work-from-home-job-internship-at-tpf-technologies-private-limited1597827336"
+    },
+    {
+    "location": "WFH",
+    "job_title": "Backend Development",
+    "job_type": "Internship",
+    "company_name": "TPF Technologies Private Limited",
+    "salary": "10000/month",
+    "apply_before": "2 Sep' 20",
+    "about_company": "TPF (The Perfect Future) is a global smart-shore software service and technology innovation company. We specialize in providing agile and cost-effective consulting services and product development solutions to small and medium-sized enterprises (SMEs) on new Microsoft technologies on PC, internet, and mobile platforms. Established in 2003, we now have more than 800 person-years of experience amongst our team serving customers from our global offices. This has enabled us to perfect our methodologies, practices, and delivery models to exceed world standards and helped us make a practical contribution to increasing our clients' effectiveness and profitability.",
+    "job_description": "Selected intern's day-to-day responsibilities include:\n\n1. Participate in the entire application lifecycle focusing on coding\n2. Write clean code to develop functional web applications\n3. Manage cutting-edge technologies to improve legacy applications",
+    "who_can_apply": "Only those candidates can apply who:\n1. are available for the work from home job/internship\n2. can start the work from home job/internship between 17th Aug'20 and 21st Sep'20\n3. are available for duration of 6 months\n4. have relevant skills and interests",
+    "experience": "0+ yr exp",
+    "skills": "Node.js",
+    "apply_url": "https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-tpf-technologies-private-limited1597646873"
+    },
     {
     "location": "WFH",
     "job_title": "Blockchain Development",
